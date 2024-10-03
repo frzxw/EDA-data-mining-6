@@ -1,5 +1,5 @@
 Jumlah Penduduk Miskin Wilayyah,,
-WILAYAH,Tahun,Nilai(Juta Jiwa)
+GOLONGAN WILAYAH,TAHUN,NILAI(Juta Jiwa)
 Kota,2016,10.415
 Kota,2017,10.47
 Kota,2018,10.135
@@ -16,11 +16,11 @@ Desa,2020,15.385
 Desa,2021,15.005
 Desa,2022,14.36
 Desa,2023,14.16
-Kota+Desa,2016,27.885
-Kota+Desa,2017,27.175
-Kota+Desa,2018,25.81
-Kota+Desa,2019,24.965
-Kota+Desa,2020,26.985
-Kota+Desa,2021,27.02
-Kota+Desa,2022,26.26
-Kota+Desa,2023,25.9
+Kota + Desa,2016,27.885
+Kota + Desa,2017,27.175
+Kota + Desa,2018,25.81
+Kota + Desa,2019,24.965
+Kota + Desa,2020,26.985
+Kota + Desa,2021,27.02
+Kota + Desa,2022,26.26
+Kota + Desa,2023,25.9
